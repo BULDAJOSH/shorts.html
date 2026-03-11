@@ -20,8 +20,7 @@
 
 <h2><font color="maroon">Product Information</font></h2>
 
-<img src="https://kingsofthecourtph.com/cdn/shop/products/Shorts_1155x.png?v=1659065427" 
-alt="Mesh Shorts" 
+<img src="https://kingsofthecourtph.com/cdn/shop/products/Shorts_1155x.png?v=1659065427" alt="Mesh Shorts" 
 width="350" height="300">
 
 <article>
