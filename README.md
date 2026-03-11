@@ -20,8 +20,8 @@
 
 <h2><font color="maroon">Product Information</font></h2>
 
-<img src="https://www.google.com/imgres?q=mesh%20short&imgurl=https%3A%2F%2Fkingsofthecourtph.com%2Fcdn%2Fshop%2Fproducts%2FShorts_1155x.png%3Fv%3D1659065427&imgrefurl=https%3A%2F%2Fkingsofthecourtph.com%2Fproducts%2Fdream-team-shorts%3Fsrsltid%3DAfmBOopMJ5chAXLBs2vVynIuWMhB2kIZrpBZNZcRs9ugqOASV45Y57J5&docid=-HRz1eVaQtYtLM&tbnid=TUfhcLwN2pDLqM&vet=12ahUKEwi4mfaK_JaTAxWDlK8BHeWJCcoQnPAOegQIIxAB..i&w=1155&h=1155&hcb=2&ved=2ahUKEwi4mfaK_JaTAxWDlK8BHeWJCcoQnPAOegQIIxAB"
-alt="Beyond The Limit Athletic Shorts"
+<img src="https://kingsofthecourtph.com/cdn/shop/products/Shorts_1155x.png?v=1659065427" 
+alt="Mesh Shorts">
 width="300">
 
 <article>
