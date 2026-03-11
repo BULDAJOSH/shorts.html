@@ -22,7 +22,7 @@
 
 <img src="https://kingsofthecourtph.com/cdn/shop/products/Shorts_1155x.png?v=1659065427" 
 alt="Mesh Shorts">
-width="300">
+width="200">
 
 <article>
 
